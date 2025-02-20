@@ -5,3 +5,6 @@
 	git status to check status
 	git commit  -m  “adding testing file”
 	git rm –cached  (filename)
+->      git push origin master
+->      git clone 
+
