@@ -1,0 +1,7 @@
+	It is a version control system that is used to record version of any code.
+	File system:- cant recover
+	git init :- initizating empty git repository
+	git add . :- to add
+	git status to check status
+	git commit  -m  “adding testing file”
+	git rm –cached  (filename)
