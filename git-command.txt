@@ -7,4 +7,6 @@
 	git rm –cached  (filename)
 ->      git push origin master
 ->      git clone 
+->      git remote set-url origin https://PAT
+->      git remote add origin https://
 
